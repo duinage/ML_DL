@@ -5,3 +5,4 @@ Research of classical machine learning and deep learning models:
 3. regression_analysis.ipynb - Research of classical methods of regression analysis;
 4. [Tunik V.] EM_algorithm_gamma_mixture.pdf - Study (in Ukrainian) of the EM-algorithm model for analyzing the regression mixture of gamma distributions;
 5. EM_algorithm_gamma_mixture.ipynb - Implementation of the EM algorithm for a mixture of gamma distributions;
+6. line_search_method_for_steepest_descent.ipynb - hand-made optimization solver.
