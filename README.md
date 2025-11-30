@@ -6,3 +6,4 @@ Research of classical machine learning and deep learning models:
 4. [Tunik V.] EM_algorithm_gamma_mixture.pdf - Study (in Ukrainian) of the EM-algorithm model for analyzing the regression mixture of gamma distributions;
 5. EM_algorithm_gamma_mixture.ipynb - Implementation of the EM algorithm for a mixture of gamma distributions;
 6. line_search_method_for_steepest_descent.ipynb - hand-made optimization solver: gradient descent with automatic step length selection based on Wolfe's conditions.
+7. SGD_MiniBatchSGD_RMSProp.ipynb - hand-made optimization solvers: SGD VS MiniBatchSGD VS RMSProp
